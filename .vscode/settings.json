@@ -1,0 +1,6 @@
+{
+  "triggerTaskOnSave.tasks": {
+    "Sync": ["*"]
+  },
+  "triggerTaskOnSave.restart": true
+}

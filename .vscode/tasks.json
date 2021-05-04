@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Sync",
+      "type": "shell",
+      "command": "yarn",
+      "problemMatcher": [],
+      "args": ["note-utils", "sync"],
+      "presentation": {
+        "echo": true,
+        "focus": false,
+        "showReuseMessage": false,
+        "clear": true,
+        "reveal": "silent"
+      }
+    }
+  ]
+}
