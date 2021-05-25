@@ -1,6 +1,6 @@
 [submodule "personal"]
-	path = personal
-	url = git@github.com:krogertechnology/a-team-gaia.wiki.git
+path = personal
+url = git@github.com:andyo-kr/notes.wiki.git
 [submodule "a-team"]
-	path = a-team
-	url = git@github.com:krogertechnology/a-team-gaia.wiki.git
+path = a-team
+url = git@github.com:krogertechnology/a-team-gaia.wiki.git
