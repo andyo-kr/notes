@@ -11,7 +11,7 @@
     "sync": "note-utils sync"
   },
   "dependencies": {
-    "@a-team/note-utils": "0.4.0-0",
+    "@a-team/note-utils": "0.5.1-0",
     "prettier": "^2.1.1"
   }
 }
