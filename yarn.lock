@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@a-team/note-utils@0.4.0-0":
-  version "0.4.0-0"
-  resolved "http://npm.kroger.com/@a-team%2fnote-utils/-/note-utils-0.4.0-0.tgz#b0ce7dbf8c86dcaaa94254036299d38750afd9f9"
-  integrity sha512-bh1kn4Qp0dmGNuXWKkHSl1Vw/aaIqJDK30vaueB9mDMNwwp17fSRTqb06wtmYdLHKvQB7uGlW858Jm0GvHvOyg==
+"@a-team/note-utils@0.5.1-0":
+  version "0.5.1-0"
+  resolved "http://npm.kroger.com/@a-team%2fnote-utils/-/note-utils-0.5.1-0.tgz#c86d9bc30415e5eae6b65881c541f1cb6749100c"
+  integrity sha512-IAcV48pATOxGUVPgZimqxP95TIPjj5ZYZjy3Zo37rtG7qj2J8XCypfHa956/yjK3DAR9VTtLTR7SU2uVKO26pA==
 
 prettier@^2.1.1:
   version "2.1.1"
