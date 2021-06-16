@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@a-team/note-utils": "0.5.1-0",
+    "@a-team/types": "4.226.1",
     "prettier": "^2.1.1"
   }
 }
