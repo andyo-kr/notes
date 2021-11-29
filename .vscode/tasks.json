@@ -4,9 +4,9 @@
     {
       "label": "Sync",
       "type": "shell",
-      "command": "yarn",
+      "command": "source ~/.zshrc && yarn note-utils sync",
       "problemMatcher": [],
-      "args": ["note-utils", "sync"],
+      "args": [],
       "presentation": {
         "echo": true,
         "focus": false,
