@@ -11,7 +11,7 @@
     "sync": "./node_modules/@a-team/note-utils/src/sync.sh"
   },
   "dependencies": {
-    "@a-team/note-utils": "1.40.0",
+    "@a-team/note-utils": "0.5.1-0",
     "@a-team/types": "4.226.1",
     "prettier": "^2.1.1"
   },
