@@ -5,12 +5,12 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@a-team/note-utils@npm:0.5.1-0":
-  version: 0.5.1-0
-  resolution: "@a-team/note-utils@npm:0.5.1-0"
+"@a-team/note-utils@npm:1.40.4-0":
+  version: 1.40.4-0
+  resolution: "@a-team/note-utils@npm:1.40.4-0::__archiveUrl=https%3A%2F%2Fkrogertechnology.jfrog.io%2Fartifactory%2Fapi%2Fnpm%2Fnpm-repo%2F%40a-team%2Fnote-utils%2F-%2F%40a-team%2Fnote-utils-1.40.4-0.tgz"
   bin:
-    note-utils: ./src/index.sh
-  checksum: c9dfeb022cbf8291ab9e20b8c7b39d7f9561cfe89e0cc42676a5074ad6be1f4dc06dc8000ecfbde35e3f13a035200a04ec1afb855a6dd636322bdefc97eadc84
+    note-utils: src/noteUtils.js
+  checksum: 524f0915d2f03b436e8e521efcd40091c3b6563d17475f015c3735aad9d10c873fcc547a0b71a0940217d7c9c4692f4b195a3a082106196ac80604d109c27e64
   languageName: node
   linkType: hard
 
@@ -661,7 +661,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "notes@workspace:."
   dependencies:
-    "@a-team/note-utils": 0.5.1-0
+    "@a-team/note-utils": 1.40.4-0
     "@a-team/types": 4.226.1
     prettier: ^2.1.1
   languageName: unknown
